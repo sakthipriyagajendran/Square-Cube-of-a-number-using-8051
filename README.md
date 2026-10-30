@@ -25,6 +25,7 @@ INC R0
 MOV @R0,A
 END
 ```
+<img width="962" height="442" alt="image" src="https://github.com/user-attachments/assets/b4277930-a6d0-47fb-88d1-7528757571ee" />
 
 ## OUTPUT
 <img width="1908" height="1075" alt="square" src="https://github.com/user-attachments/assets/27c7d950-9435-4112-b2f9-cfe6cf8d3bdd" />
@@ -64,6 +65,7 @@ MOV @R0,B
 END
 
 ```
+<img width="1080" height="488" alt="image" src="https://github.com/user-attachments/assets/793c37c8-005a-4538-b26d-fc81860b045d" />
 
 
 ## OUTPUT
